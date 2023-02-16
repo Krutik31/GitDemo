@@ -1,3 +1,5 @@
 Modified for third commit
 
-Modified for testing a soft reset 
+Modified for testing a soft reset
+
+Modified for testing a rebase feature 
