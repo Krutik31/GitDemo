@@ -5,3 +5,5 @@ Modified for testing a soft reset
 Modified for testing a rebase feature 
 
 Modified for testing a commit message changing feature
+
+Modified for testing a cherrypick feature
